@@ -6,7 +6,7 @@
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <div align="center">
   <a href="https://dana-sherzad.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Self-hosted+infrastructure+enthusiast;VoIP+%26+telephony+integrations;SaaS+builder+%7C+TempMail+%7C+CtrlApp;English+%E2%80%A2+%D8%B9%D8%B1%D8%A8%D9%8A+%E2%80%A2+%DA%A9%D9%88%D8%B1%D8%AF%DB%8C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Self-hosted+infrastructure+enthusiast;APIs%2C+queues+%26+integrations;SaaS+builder+%7C+TempMail+%7C+CtrlApp;English+%E2%80%A2+%D8%B9%D8%B1%D8%A8%D9%8A+%E2%80%A2+%DA%A9%D9%88%D8%B1%D8%AF%DB%8C" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,7 +31,6 @@ const dana = {
   currentFocus: [
     "Multi-tenant SaaS architecture",
     "Backend systems at scale (Supabase, Node.js, PostgreSQL)",
-    "VoIP & call-center platforms (Asterisk, FreePBX, AMI)",
     "Self-hosted infrastructure (Proxmox, Docker, Cloudflare Tunnel)"
   ],
   sideProjects: {
@@ -61,12 +60,12 @@ const dana = {
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <b>📞 Telephony & VoIP</b><br/><br/>
-      Asterisk • FreePBX • SIP/RTP<br/>AMI/ARI • Custom Middleware
+      <b>⚡ APIs & Integrations</b><br/><br/>
+      REST APIs • Webhooks<br/>Queue Systems • Custom Middleware
     </td>
     <td align="center" width="33%">
       <b>🏗️ Self-Hosted</b><br/><br/>
-      Proxmox • Cloudflare Tunnel<br/>Tailscale • Zammad • Twenty CRM
+      Proxmox • Docker<br/>Cloudflare Tunnel • Tailscale
     </td>
     <td align="center" width="33%">
       <b>🌐 Localization</b><br/><br/>
@@ -105,7 +104,6 @@ const dana = {
 |---------|-------------|-------|
 | 📮 **TempMail** | Disposable email SaaS with real-time inbox & queue processing | `Next.js` `NestJS` `PostgreSQL` `Redis` `BullMQ` |
 | 🎛️ **CtrlApp** | Multi-platform app management SaaS | `React` `TypeScript` `Node.js` |
-| ☎️ **Call Center Platform** | FreePBX ↔ CRM ↔ Ticketing integration with custom Node.js middleware | `Asterisk` `AMI` `Zammad` `Twenty CRM` |
 | 🏢 **Multi-tenant ERP** | Security-hardened ERP with accounting, inventory & ticketing modules | `Supabase` `React` `Flutter` `RLS` |
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
