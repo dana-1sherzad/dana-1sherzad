@@ -14,8 +14,8 @@
 
 <!-- ═══════════════════════ BADGES ═══════════════════════ -->
 <div align="center">
-  <a href="https://dana-sherzad.com"><img src="https://img.shields.io/badge/🌐_Portfolio-dana--sherzad.com-2c5364?style=for-the-badge"/></a>
-  <a href="https://github.com/dana-1sherzad?tab=followers"><img src="https://img.shields.io/github/followers/dana-1sherzad?style=for-the-badge&logo=github&color=36BCF7&labelColor=0d1117" alt="Followers"/></a>
+  <a href="https://dana-sherzad.com"><img src="https://img.shields.io/badge/Portfolio-dana--sherzad.com-2c5364?style=for-the-badge&logo=safari&logoColor=white"/></a>
+  <a href="https://github.com/dana-1sherzad"><img src="https://img.shields.io/badge/GitHub-dana--1sherzad-36BCF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/></a>
 </div>
 
 <br/>
@@ -78,8 +78,8 @@ const dana = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dana-1sherzad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dana-1sherzad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dana-1sherzad&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dana-1sherzad&theme=tokyonight" />
 </div>
 
 <div align="center">
@@ -110,7 +110,7 @@ const dana = {
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://dana-sherzad.com"><img src="https://img.shields.io/badge/🌐_Website-dana--sherzad.com-36BCF7?style=for-the-badge"/></a>
+  <a href="https://dana-sherzad.com"><img src="https://img.shields.io/badge/Website-dana--sherzad.com-36BCF7?style=for-the-badge&logo=safari&logoColor=white"/></a>
   <a href="mailto:hello@dana-sherzad.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
