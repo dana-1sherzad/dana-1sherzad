@@ -14,8 +14,8 @@
 
 <!-- ═══════════════════════ BADGES ═══════════════════════ -->
 <div align="center">
-  <a href="https://dana-sherzad.com"><img src="https://img.shields.io/badge/Portfolio-dana--sherzad.com-2c5364?style=for-the-badge&logo=safari&logoColor=white"/></a>
-  <a href="https://github.com/dana-1sherzad"><img src="https://img.shields.io/badge/GitHub-dana--1sherzad-36BCF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/></a>
+  <a href="https://dana-sherzad.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2c5364?style=for-the-badge"/></a>
+  <a href="https://github.com/dana-1sherzad"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 <br/>
@@ -110,7 +110,7 @@ const dana = {
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://dana-sherzad.com"><img src="https://img.shields.io/badge/Website-dana--sherzad.com-36BCF7?style=for-the-badge&logo=safari&logoColor=white"/></a>
+  <a href="https://dana-sherzad.com"><img src="https://img.shields.io/badge/Website-Visit-36BCF7?style=for-the-badge"/></a>
   <a href="mailto:hello@dana-sherzad.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
